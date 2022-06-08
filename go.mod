@@ -1,3 +1,3 @@
-module github.com/libklein/synacore-vm
+module github.com/libklein/synacorvm
 
 go 1.18
